@@ -23,8 +23,8 @@ Hi there, you've reached my personal developer site.
 ## What's Keeping me Busy:
 
 Working on a sample node application:
-* to write APIs
-* 
+* to write tdd APIs using`jest`.
+* to show you how react can be used to display and reach backends.
 
 ## Favorite quote:
 > "Don't quote me on that"
