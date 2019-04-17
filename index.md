@@ -1,38 +1,40 @@
 # Home
 
-This page is written in *markdown* and rendered as **html** using the `@now/md` builder.
+Hi there, you've reached my personal developer site. 
 
-The builder runs once so this static deployment will load instantly each page load!
 
-Visit the [about](./about) page or keep reading.
+## I am a:
 
-## Ordered Lists
+1. Software Developer.
+2. An Architect.
+3. Java by trade but in love with Typescript (and Node) ... don't tell my wife!
 
-1. First Item
-2. Next Item
-3. Last Item
+## I can:
 
-## Unordered Lists
+* Give advise.
+* Work with you.
+* Have coffee together.
 
-* First thing
-* Another thing
-* Last thing
+## You can:
 
-## Task Lists
+- [x] Keep reading.
+- [ ] Visit often and read the section bellow to see what projects I deploy for fun. 
 
-- [x] I did this one already
-- [ ] Still need to do this one
+## What's Keeping me Busy:
 
-## Quotes
+Working on a sample node application:
+* to write APIs
+* 
 
-One of my favorite quotes is
-
+## Favorite quote:
 > "Don't quote me on that"
 
 ## Code Snippets
 
 ```js
-function deploy(name: string) {
-    console.log(`Deploying ${name}...`);
+function contact(name: string, email: string) {
+    console.log(`You can contact ${name} at ${email}. Thx. Bye.`);
 }
+
+contact('Afrim', 'sayhi@afrim.dev');
 ```
