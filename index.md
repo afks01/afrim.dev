@@ -36,13 +36,3 @@ function deploy(name: string) {
     console.log(`Deploying ${name}...`);
 }
 ```
-
-## Images
-
-![zeit logo](https://assets.zeit.co/image/upload/front/assets/design/zeit-black-full-logo.svg)
-
-## Hyperlinks
-
-Visit [ZEIT Now](https://zeit.co/now) to create your global serverless deployments!
-
-Read more about deploying markdown with the [@now/md](https://zeit.co/docs/v2/deployments/official-builders/markdown-now-md) builder.
